@@ -23,9 +23,9 @@ This is a work in progress!
 Here are some "action shots". Will update as I make more progress.
 
 Visualizing bike accident and theft locations, as pinned on the map.
-![mapPins](screenshots/map.PNG)
+![mapPins](screenshots/map.png)
 
-![mapPins](screenshots/mapAndThefts.PNG)
+![mapPins](screenshots/mapAndThefts.png)
 
 ## Data
 Bike theft and accident data is sourced from the Toronto Police Service's [Public Safety Data Portal](https://data.torontopolice.on.ca/datasets/698717de582845458159a73ad4a2a8e0_0).
